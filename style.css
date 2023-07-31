@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    color:rgb(50, 32, 189);
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    margin-top: -70px;
+    margin-bottom: 30px;
+    font-size: 60px;
+}
+.fancytext{
+
+    margin-top:5px;
+    margin-bottom: 20px;
+    height: 95px;
+    text-align: center;
+    background-color:white !important; 
+    color:rgb(39, 100, 176);
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+    
+}
+
+span{
+    margin-left: 10px;
+}
+@media screen and (max-width:730px) {
+    h1 {
+        font-size: 40px;
+        margin-top: -40px;
+}
+}
+@media screen and (max-width:430px) {
+    h1 {
+        font-size: 30px;
+        margin-top: -30px;
+}
+}
