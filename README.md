@@ -1,6 +1,6 @@
 ## Discord Font Generator 🍿:
-Discord font generator tool that lets you spice up your messages and usernames with unique and eye-catching fonts. Elevate your Discord experience by customizing your text in various stylish and creative ways, making your presence stand out in any server.
-Endless Font Options: FancyFontify boasts an extensive collection of fonts, ranging from elegant cursive styles to bold and futuristic designs. Choose from a wide array of creative fonts to find the perfect fit for your messages.
+Discord font generator tool that lets you spice up your messages and usernames with unique and eye-catching fonts. Elevate your Discord experience by customizing your text in various stylish and creative ways, making your presence stand out on any server.
+Endless Font Options: Discort Font Generator boasts an extensive collection of fonts, ranging from elegant cursive styles to bold and futuristic designs. Choose from a wide array of creative fonts to find the perfect fit for your messages.
 ## Key Features🥫:
 - Easy-to-Use Interface: Our user-friendly interface makes it simple and quick to generate customized text. No technical knowledge is required – just type in your text and see it magically transform into captivating fonts.
 
